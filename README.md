@@ -1,2 +1,5 @@
-# appliedML
-Applied Machine Learning using Python
+# Applied Machine Learning
+
+A classification problem is taken and we try various algorithms on it.
+
+
